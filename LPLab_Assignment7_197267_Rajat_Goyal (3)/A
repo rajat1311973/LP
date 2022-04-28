@@ -1,0 +1,13 @@
+#include<stdio.h>
+//typedef struct S A;
+struct S{
+int a;
+struct H o;
+};
+int main()
+{
+	//A a;	
+	struct S b;
+	
+return 0;
+}

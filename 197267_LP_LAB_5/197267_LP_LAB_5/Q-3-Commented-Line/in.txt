@@ -1,0 +1,13 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+int main()
+{
+    int a = 32, b = 16; 
+    // variable to store Sum of these given variables
+    int c;
+    c = a + b;
+    /*Printing the sum value*/
+    cout<<c<<"\n";
+    return 0;
+}
